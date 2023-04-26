@@ -1,0 +1,6 @@
+.box-image{
+    margin-top: 1rem;
+    object-fit: contain;
+    display: flex;
+    align-self: center;
+}
